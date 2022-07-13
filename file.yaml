@@ -1,0 +1,13 @@
+file_type: csv
+dataset_name: testfile
+file_name: people_data
+table_name: edsurv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - Name
+    - Job
+    - Address
+    - Phone
+    - Email
